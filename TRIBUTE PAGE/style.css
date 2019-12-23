@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(218, 218, 213);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main {
+    text-align: center;
+}
+#title {
+    height: 90px;
+    padding-top: 50px;
+}
+#img-div {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: white;
+    width: 98%;
+}
+#img {
+    margin: 0 auto;
+    max-width: 98%;
+    height: auto;
+    margin: 5px;
+    object-fit: cover;
+}
+#tribute-info {
+    margin-top: 50px;
+}
+#tribute-link a {
+    background-color: rebeccapurple;
+}
